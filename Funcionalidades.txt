@@ -1,0 +1,10 @@
+- Selecionar arquivos em uma pasta                                 => OK
+- Selecionar um arquivo de cada vez em uma pasta                   => OK
+- Verificar se um arquivo existe ou não                            => OK
+- Criar um arquivo                                                 => OK
+- Criar uma pasta                                                  => OK
+- Renomear um arquivo                                              => OK
+- Escrever no arquivo                                              => OK
+- Deletar um arquivo                                               => OK
+- Deletar uma pasta                                                => OK
+- Lendo um arquivo                                                 => OK
