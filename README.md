@@ -8,7 +8,19 @@ Manipulação de pastas e arquivos em python, com todas as funcionalidades espec
 
 - Instalar a biblioteca do python chamada de python-dotenv: Leitura de chave-valor de um arquivo .env e pode defini-los como variáveis de ambiente;
 ```bash
+11
 pip install python-dotenv
+12
 ```
 
+# Resultado
 
+- Pasta
+<span>
+     <img src="https://user-images.githubusercontent.com/85804895/159191057-32e09f0f-cdb6-4c46-a5cf-06c94081a372.gif">
+</span>
+
+- Arquivo
+<span>
+     <img src="https://user-images.githubusercontent.com/85804895/159191129-72129a2c-0a91-4ff5-8a4a-133fe848ce89.gif">
+</span>
